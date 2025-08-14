@@ -1,5 +1,7 @@
 # logica-programacao
+
 Curso de Lógica de progamação em Pyhon
+
 compreender como mesclar branches;
 
 identificar como mesclar pelo Github;
